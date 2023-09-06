@@ -1,5 +1,3 @@
-# Moe Daif STAT 120 Homework 1 Solutions
-
 # Question 1: Vector that stores the GPA values
 gpas = c(3.62, 3.84, 3.95, 4.00, 3.12, 2.86, 3.77, 2.53, 3.26, 2.90)
 
