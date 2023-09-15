@@ -1,4 +1,3 @@
-# Moe Daif Homework 2
 # Part 1 Questions:
 
 # Question 1 vector from 1 to 103 incremented by 3
