@@ -1,5 +1,3 @@
-# Moe Daif Homework 3
-
 # Part 1 Questions: 
 
 # Question 1: Create a data frame that stores the above information. 
